@@ -1,2 +1,3 @@
 # python-data-science
-Exploring data science with Pythong
+
+    Exploring data science with Python
